@@ -33,6 +33,5 @@ int main() {
             std::cout << "Такого пункта в меню нет." << std::endl;
             break;
     }
-
     return 0;
 }
